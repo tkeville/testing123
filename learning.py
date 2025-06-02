@@ -1,1 +1,1 @@
-print("I a  earning git")
+print("I am learning git")
